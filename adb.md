@@ -108,3 +108,4 @@
 - `logcat -v + FORMAT` 指定输出格式
 - `logcat -t + NUM` 显示最近的指定数量的日志条目
 - `logcat -c` 清楚日志缓冲区
+- https://hihonorbeta.wjx.cn/vm/rXXKNwY.aspx#
